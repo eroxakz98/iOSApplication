@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Irtysh",
+        "category": "Rivers",
+        "city": "Pavlodar",
+        "state": "Kazakhstan",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Irtysh",
+        "coordinates": {
+            "longitude": 82.465178,
+            "latitude": 50.015749
+        },
+        "description": "Irtysh is a river in Russia, China, and Kazakhstan. It is the chief tributary of the Ob and is also the longest tributary river in the world. The river's source lies in the Mongolian Altai in Dzungaria (the northern part of Xinjiang, China) close to the border with Mongolia. The Irtysh's main tributaries include the Tobol, Demyanka and the Ishim. The Ob-Irtysh system forms a major drainage basin in Asia, encompassing most of Western Siberia and the Altai Mountains.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Lake Alakol",
+        "category": "Lakes",
+        "city": "Almaty obl.",
+        "state": "Kazakhstan",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Alakol",
+        "coordinates": {
+            "longitude": 81.617164 ,
+            "latitude": 46.144644
+        },
+        "description": "Alakol Lake (Kazakh: Алакөл, Alakól, from Turkic 'motley lake') is a lake located in the Almaty and Shyghyz provinces, east central Kazakhstan. Its elevation is 347 m (1,138 ft) above sea level. The lake is the northwest extension of the region known as the Dzhungarian Gate (Alataw Pass), a narrow valley connects the southern uplands of Kazakhstan with arid northwest China. The Dzhungarian Gate is a fault-bounded valley (see vertical line on the image along the southwest side of the lake) where the elevation of the valley floor is between 350 and 450 m above sea level and the peaks of the Dzhungarsky Alatau range (lower left) reach 4,463 m (14,642 ft) above sea level. Two well-defined alluvial fans are visible where mountain streams cut through the faulted landscape to the southwest of the lake.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Khan Tengri",
+        "category": "Mountains",
+        "city": "Issykkul",
+        "state": "Kazakhstan",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Khan Tengri",
+        "coordinates": {
+            "longitude": 80.17440,
+            "latitude": 42.21084
+        },
+        "description": "Khan Tengri is a mountain of the Tian Shan mountain range. It is located on the China—Kyrgyzstan—Kazakhstan tripoint, east of lake Issyk Kul. Its geologic elevation is 6,995 m (22,949 ft), but its glacial cap rises to 7,010 m (22,999 ft). For this reason, in mountaineering circles, including for the Soviet Snow Leopard award criteria, it is considered a 7,000-metre peak. Khan Tengri is the second-highest mountain in the Tian Shan, surpassed only by Jengish Chokusu (means Victory peak, formerly known as Peak Pobeda) (7,439 m). Khan Tengri is the highest point in Kazakhstan and the third-highest peak in Kyrgyzstan, after Jengish Chokusu (7,439  m) and Avicenna Peak (7,134 m). It is also the world's most northern 7,000-metre peak, notable because peaks of high latitude have a shorter climbing season, generally more severe weather and thinner air.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "Caspian Sea",
+        "category": "Lakes",
+        "city": "Aqtay'",
+        "state": "Kazakhstan",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Caspian Sea",
+        "coordinates": {
+            "longitude": 50.56076,
+            "latitude": 41.77898
+        },
+        "description": "The Caspian Sea (Azerbaijani: Xəzər Dənizi, Russian: Каспийское море, Kazakh: Kaspıi Teńizi, Каспий теңізі, Persian: دریای خزر‎, Turkmen: Hazar deňzi) is the world's largest inland body of water, variously classed as the world's largest lake or a full-fledged sea. An endorheic basin, it lies between Europe and Asia; east of the Caucasus, west of the broad steppe of Central Asia, south of the fertile plains of Southern Russia in Eastern Europe, and north of the mountainous Iranian Plateau of Western Asia. It covers 371,000 km2 (143,000 sq mi) (excluding the highly saline lagoon of Garabogazköl) and a volume of 78,200 km3 (19,000 cu mi). It has a salinity of approximately 1.2% (12 g/l), about a third that of average seawater. It is bounded by Kazakhstan from mid-north to mid-east, Russia from mid-north to mid-west, Azerbaijan to the southwest, Iran to the south and adjacent corners, and Turkmenistan along southern parts of its eastern coast.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Balhash",
+        "category": "Lakes",
+        "city": "Balhash",
+        "state": "Kazakhstan",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Balhash",
+        "coordinates": {
+            "longitude": 73.93694,
+            "latitude": 45.92663
+        },
+        "description": "Lake Balkhash (Kazakh: Балқаш көлі, Balqaş kóli, Kazakh pronunciation: [bɑlqɑɕ kwʏlɪ]; Russian: озеро Балхаш, romanized: ozero Balkhash) is one of the largest lakes in Asia and 15th largest in the world. It is in the east of Central Asia in southeastern Kazakhstan and belongs to an endorheic (closed) basin, the uppermost part of which is in mainly China, with a small portion in Kyrgyzstan. The basin drains seven rivers, the primary of which is the Ili, bringing most of the riparian inflow; others, such as the Karatal, bring surface and subsurface flow. The Ili is fed by precipitation, largely vernal snowmelt, from the mountains of China's Xinjiang region.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Belukha",
+        "category": "Mountains",
+        "city": "Ziryanovsk",
+        "state": "Kazakhstan",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Belukha Mountains",
+        "coordinates": {
+            "longitude": 86.58991,
+            "latitude": 49.80707
+        },
+        "description": "Belukha Mountain (Russian: Белуха, lit. 'whitey'; Altai: Ӱч-Сӱмер, lit. 'three peaks'; Kazakh: Мұзтау Шыңы, lit. 'icemount peak'), located in the Katun Mountains, is the highest peak of the Altai Mountains in Russia and the highest of the system of the South Siberian Mountains.[2] It is part of the World Heritage Site entitled Golden Mountains of Altai.[3] Located in the Altai Republic, Belukha is a three-peaked mountain massif that rises along the border of Russia and Kazakhstan, just a few dozen miles north of the point where this border meets with the border of China. There are several small glaciers on the mountain, including Belukha Glacier. Of the two peaks, the eastern peak (4,506 m, 14,784 ft.) is higher than the western peak (4,440 m, 14,567 ft.).",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Tobol",
+        "category": "Rivers",
+        "city": "Siberia",
+        "state": "Kazakhstan",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Tobol",
+        "coordinates": {
+            "longitude": 65.06365,
+            "latitude": 55.10759
+        },
+        "description": "The Tobol (Russian: Тобол, Kazakh: Тобыл Tobyl) is a river in Western Siberia (in Kazakhstan and Russia) and the main (left) tributary of the Irtysh. Its length is 1,591 km (989 mi), and the area of its drainage basin is 426,000 km2 (164,000 sq mi). The Tobol River was one of the four important rivers of the Siberia Khanate. In 1428 the khan was killed in a battle with the forces of Abu'l-Khayr Khan at the Battle of Tobol.[2]. In the 16th century, the Tobol was the eastern terminus of the portage route leading westward to the rivers Vishera and Kama.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Big Almaty Peak",
+        "category": "Mountains",
+        "city": "Almaty obl",
+        "state": "Kazakhstan",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "BAP",
+        "coordinates": {
+            "longitude": 76.93383,
+            "latitude": 43.05467
+        },
+        "description": "he Big Almaty peak or big Almaty peak is a mountain peak of the Northern slope of the Tian Shan range of the Zailiysky Alatau. The peak is located in the mountain spur of the Almaty-Alagir massif directly the North of the Tourist peak just 15 km from the Almaty city. There is a Large Almaty lake in the East of the peak; from the West are skirting slopes of the Almarasan gorge through which the Prokhodnaya River flows. The Tien-Shan astronomical Observatory is on the slopes of the peak. There are meteorological post and high-altitude scientific station of cosmic rays (SCL) of the Institute of Physics and technology (more commonly known among the local population as Cosmo station) to the South of the summit on the pass Dzhusaly-Kezen.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Aral",
+        "category": "Lakes",
+        "city": "Aral",
+        "state": "Kazakhstan",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Aral",
+        "coordinates": {
+            "longitude": 59.69532,
+            "latitude": 46.20821
+        },
+        "description": "The Aral Sea (Aral /ˈærəl/;[4] Kazakh: Aral teńizi, Арал теңізі, Uzbek: Orol dengizi, Орол денгизи, Karakalpak: Aral ten'izi, Арал теңизи, Russian: Аральское море) was an endorheic lake lying between Kazakhstan (Aktobe and Kyzylorda Regions) in the north and Uzbekistan (Karakalpakstan autonomous region) in the south which began shrinking in the 1960s and had largely dried up by the 2010s. The name roughly translates as Sea of Islands, referring to over 1,100 islands that had dotted its waters. In the Mongolic and Turkic languages aral means island, archipelago. The Aral Sea drainage basin encompasses Uzbekistan and parts of Tajikistan, Turkmenistan, Kyrgyzstan, Kazakhstan, Afghanistan, and Iran.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Bartogay",
+        "category": "Lakes",
+        "city": "Bartogay",
+        "state": "Kazakhstan",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Bartogay",
+        "coordinates": {
+            "longitude": 78.50602,
+            "latitude": 43.34585
+        },
+        "description": "SBartogai Lake (Kazakh: Бартоғай бөгені, Bartoǵaı begeni) is a reservoir in the Almaty Region of Kazakhstan.[1] As it is far away from any pollution sources, it has remained relatively pristine.[2] It was built in the early 1980s on the Chilik River at the base of the Sogety Plateau (Syugaty Hills) as part of an irrigation project. The dam was completed in 1983 and the site became operational in 1985.[3][4] It collects water during the winter and spring and releases water for irrigation from June through September.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Ural",
+        "category": "Rivers",
+        "city": "Uralsk",
+        "state": "Kazakhstan",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ural",
+        "coordinates": {
+            "longitude": 51.73443,
+            "latitude": 46.96316
+        },
+        "description": "The Ural (Russian: Урал, pronounced [ʊˈraɫ]), known as Yaik (Russian: Яик, Bashkir: Яйыҡ, romanized: Yayıq, pronounced [jɑˈjɯq]; Kazakh: Жайық, romanized: Jayıq, جايىق, pronounced [ʑɑˈjəq]) before 1775, is a river flowing through Russia and Kazakhstan in the continental border between Europe and Asia. It originates in the southern Ural Mountains and discharges into the Caspian Sea. At 2,428 kilometres (1,509 mi), it is the third-longest river in Europe after the Volga and the Danube, and the 18th-longest river in Asia. The Ural is conventionally considered part of the boundary between the continents of Europe and Asia.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Big Almaty Lake",
+        "category": "Lakes",
+        "city": "Almaty",
+        "state": "Kazakhstan",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "BAO",
+        "coordinates": {
+            "longitude": 76.98539,
+            "latitude": 43.05103
+        },
+        "description": "Big Almaty Lake (Kazakh: Үлкен Алматы көлі / Ülken Almaty kölı, Russian: Большое Алматинское Озеро / Bol'shoye Almatinskoye Ozero) is natural alpine reservoir. It is located in the Trans-Ili Alatau mountains, 15 km south from the center of Almaty in Kazakhstan.[1] The lake is 2511 meters above sea level. The basin of the lake has tectonic origin with complex shape and general slope to the north. The lake is 1.6 km in length and from 0.75 to 1 km in width. The coastline is 3 km, the depth is 30–40 m, the volume of water mass is about 14 million m³. The maximum water level is in August, the minimum is in February. Level fluctuations reach 20 m. Lakeside is abrupt and steep. From the south, the lake flows into the river Big Almaty. It is part of the Ile-Alatau National Park",
+        "imageName": "umbagog"
+    }
+]
